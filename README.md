@@ -3,8 +3,8 @@
 Hi, I'm Sauvik Das, an aspiring software engineer and current student at Jadavpur University, Kolkata. My primary focus is on full-stack web development, with hands-on expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 I enjoy building impactful projects—some of my notable works include:
-- **LearnTube** &nbsp;[(https://github.com/Sauvik2308/LearnTube)]
-- **Sign Language Detection** &nbsp;[https://github.com/Sauvik2308/Sign-Language-Detection]
+- **LearnTube** &nbsp;[Link](https://github.com/Sauvik2308/LearnTube)
+- **Sign Language Detection** &nbsp; [Link](https://github.com/Sauvik2308/Sign-Language-Detection)
 
 I'm passionate about developing scalable web applications and exploring cutting-edge technologies.
 
@@ -32,8 +32,8 @@ I'm passionate about developing scalable web applications and exploring cutting-
 
 ## 🌐 Connect with Me
 
-- <a href="https://www.linkedin.com/in/sauvik-das-0a8a67244" target="_blank">LinkedIn</a>
-- <a href="https://sauvik-portfolio-beta.vercel.app/" target="_blank">Website</a>
+- [LinkedIn](https://www.linkedin.com/in/sauvik-das-0a8a67244)
+- [Website](https://sauvik-portfolio-beta.vercel.app/)
 
 
 <!-- Feel free to reach out for collaboration, open source, or internships! -->
