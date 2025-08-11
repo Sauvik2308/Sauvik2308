@@ -32,7 +32,8 @@ I'm passionate about developing scalable web applications and exploring cutting-
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sauvik-das-0a8a67244)
-- [Website](https://sauvik-portfolio-beta.vercel.app/)
+- <a href="https://www.linkedin.com/in/sauvik-das-0a8a67244" target="_blank">LinkedIn</a>
+- <a href="https://sauvik-portfolio-beta.vercel.app/" target="_blank">Website</a>
+
 
 <!-- Feel free to reach out for collaboration, open source, or internships! -->
