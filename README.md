@@ -3,7 +3,7 @@
 Hi, I'm Sauvik Das, an aspiring software engineer and current student at Jadavpur University, Kolkata. My primary focus is on full-stack web development, with hands-on expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 I enjoy building impactful projects—some of my notable works include:
--**BitShelf** [[Link](https://github.com/Sauvik2308/BitShelf)]
+- **BitShelf** [[Link](https://github.com/Sauvik2308/BitShelf)]
 - **LearnTube** [[Link](https://github.com/Sauvik2308/LearnTube)]
 - **Sign Language Detection** [[Link](https://github.com/Sauvik2308/Sign-Language-Detection)]
 
